@@ -13263,11 +13263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lennin\\source\\repos\\VSIXProject1\\VSIXProject1.csproj",
+      "projectUniqueName": "C:\\Users\\lennin\\source\\repos\\latest-component-changed-vs\\VSIXProject1.csproj",
       "projectName": "VSIXProject1",
-      "projectPath": "C:\\Users\\lennin\\source\\repos\\VSIXProject1\\VSIXProject1.csproj",
+      "projectPath": "C:\\Users\\lennin\\source\\repos\\latest-component-changed-vs\\VSIXProject1.csproj",
       "packagesPath": "C:\\Users\\lennin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lennin\\source\\repos\\VSIXProject1\\obj\\",
+      "outputPath": "C:\\Users\\lennin\\source\\repos\\latest-component-changed-vs\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
