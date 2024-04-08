@@ -41,3 +41,6 @@ C:\Users\lennin\source\repos\latest-component-changed-vs\obj\Debug\VSIXProject1.
 C:\Users\lennin\source\repos\latest-component-changed-vs\obj\Debug\extension.vsixmanifest
 C:\Users\lennin\source\repos\latest-component-changed-vs\obj\Debug\files.json
 C:\Users\lennin\source\repos\latest-component-changed-vs\obj\Debug\createTemplateManifests.cache
+C:\Users\lennin\source\repos\Latest-Component-Changed-VS\obj\Debug\VSCT.read.1.tlog
+C:\Users\lennin\source\repos\Latest-Component-Changed-VS\obj\Debug\VSCT.write.1.tlog
+C:\Users\lennin\source\repos\Latest-Component-Changed-VS\obj\Debug\VSPackage.resources.original
